@@ -51,6 +51,7 @@ Wealth
 
 
 Addmoney
+
 ![Screenshot_20220114_171437](https://user-images.githubusercontent.com/66405570/149517575-81d05505-3834-44fa-a6f3-20292c8bf52e.jpg)
 
 
