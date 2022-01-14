@@ -45,4 +45,19 @@ Send Money confirm
 
 
 
+Wealth
+
+![Screenshot_20220114_171500](https://user-images.githubusercontent.com/66405570/149517425-61d695f7-cf35-4fa5-a0d3-7f4544f8d8b6.jpg)
+
+
+Addmoney
+![Screenshot_20220114_171437](https://user-images.githubusercontent.com/66405570/149517575-81d05505-3834-44fa-a6f3-20292c8bf52e.jpg)
+
+
+
+More
+
+![Screenshot_20220114_171454](https://user-images.githubusercontent.com/66405570/149517502-d7629ef6-ff4d-432a-976e-e4176ce82c07.jpg)
+
+
 
