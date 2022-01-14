@@ -15,22 +15,33 @@ Home Page
 
 
 
-All transaction
 
+Menu bar 
+
+![Screenshot_20220114_171432](https://user-images.githubusercontent.com/66405570/149517322-3655eed5-72b6-47ec-9eba-f324fc7d57a5.jpg)
+
+
+
+All transaction
 
 ![Screenshot_20220111_163323](https://user-images.githubusercontent.com/66405570/149516841-e2adcd10-4646-4de2-823a-97b5dcafd124.jpg)
 
 
 
-Send Money
 
+
+
+Send Money
 
 ![Screenshot_20220111_163335](https://user-images.githubusercontent.com/66405570/149516860-02cf4b0d-371c-4ff5-89f3-97ef56f087b9.jpg)
 
 
+
+
+
 Send Money confirm 
 
-![Screenshot_20220111_163412](https://user-images.githubusercontent.com/66405570/149516868-b5ce2abb-2ae4-4414-a34e-cfce14f1f4bd.jpg)
+![Screenshot_20220111_163412](https://user-images.githubusercontent.com/66405570/149517263-9370beec-3500-472f-bd7a-32ebf45ab6dc.jpg)
 
 
 
